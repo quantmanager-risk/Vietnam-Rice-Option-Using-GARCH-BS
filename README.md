@@ -20,4 +20,4 @@ A data-driven, econometric financial engineering project that modernizes option 
 ## 🏃 How to Run the Notebook
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/quantmanager-risk/Vietnam-rice-option-pricing-garch-bs.git](https://github.com/quantmanager-risk/Vietnam-rice-option-pricing-garch-bs.git)
+   git clone [https://github.com/quantmanager-risk/Vietnam-Rice-Option-Using-GARCH-BS.git](https://github.com/quantmanager-risk/Vietnam-Rice-Option-Using-GARCH-BS.git)
